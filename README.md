@@ -1,1 +1,1 @@
-# odin-recipes
+Odin Recipes will function as my completion certificate for HTML Basics and allow me to continue with confidence in learning CSS and then Javascript.
